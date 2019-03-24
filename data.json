@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/angular.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/javascript.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/rails.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/react.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/redux.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/ruby.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/vue.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/columbia.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/node.js.png",
+    "clicked": false
+  }
+]
